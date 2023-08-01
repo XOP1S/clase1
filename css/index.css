@@ -3,25 +3,19 @@
 
     display: flex;
 
-
 }
 
-.img-texts {
-     margin: 10px;
-     text-align: center;
-
-
-}
 
 .img-texts img{
     
 width: 300px;
 height: 200px;
+margin: 15px;
 
 }
 
 .img-texts p{
 font-size: 20px;
-
+text-align: center;
 
 }
